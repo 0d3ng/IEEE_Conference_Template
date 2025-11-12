@@ -1,0 +1,16 @@
+template.log
+template.blg
+template.out
+response_revision.soc
+response_revision.loc
+template.fls
+template.fdb_latexmk
+template.aux
+template.bbl
+template.bak0
+
+# Ignore pdf files if you don't want to track them
+template.pdf
+*.bbl
+*.synctex.gz
+*.aux
